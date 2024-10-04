@@ -1,0 +1,3 @@
+juan,123,jperez@gmail.com
+Pablo Perez,123,pperez@gmail.com
+Marisol Dominguez,123456,mdomin@gmail.com
